@@ -2,7 +2,6 @@
 
 With this repository, you will able to train Multi-label Classification with BERT, 
 
-Deploy BERT for online prediction. 
 
 You can also find the a short tutorial of how to use bert with chinese: <a href='https://github.com/brightmart/sentiment_analysis_fine_grain/blob/master/README_bert_chinese_tutorial.md'>BERT short chinese tutorial</a>
 
