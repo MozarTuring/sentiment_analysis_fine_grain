@@ -1,8 +1,5 @@
 ## Introduction
 
-With this repository, you will able to train Multi-label Classification with BERT, 
-
-
 You can also find the a short tutorial of how to use bert with chinese: <a href='https://github.com/brightmart/sentiment_analysis_fine_grain/blob/master/README_bert_chinese_tutorial.md'>BERT short chinese tutorial</a>
 
 You can find Introduction to <a href='https://challenger.ai/competition/fsauor2018'>fine grain sentiment from AI Challenger</a>
